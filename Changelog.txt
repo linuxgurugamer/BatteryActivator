@@ -1,0 +1,12 @@
+Changelog
+
+1.2
+	Adoption by Linuxgurugamer
+	Rebuilt for KSP 1.8 and newer
+
+1.1
+	Compiled with KSP 1.2
+	Now works for ships with tourists on board
+
+1.0.0.1
+	Initial release

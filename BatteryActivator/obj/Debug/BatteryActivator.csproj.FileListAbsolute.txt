@@ -3,3 +3,4 @@ D:\Users\jbb\github\BatteryActivator\BatteryActivator\bin\Debug\BatteryActivator
 D:\Users\jbb\github\BatteryActivator\BatteryActivator\obj\Debug\BatteryActivator.csproj.CoreCompileInputs.cache
 D:\Users\jbb\github\BatteryActivator\BatteryActivator\obj\Debug\BatteryActivator.dll
 D:\Users\jbb\github\BatteryActivator\BatteryActivator\obj\Debug\BatteryActivator.pdb
+D:\Users\jbb\github\BatteryActivator\BatteryActivator\obj\Debug\BatteryActivator.csprojAssemblyReference.cache
