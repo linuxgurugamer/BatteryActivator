@@ -1,0 +1,43 @@
+BatteryActivator for Kerbal Space Program
+=========================================
+
+BatteryActivator allows batteries on an unmanned vessel to be activated if they have been switched off to conserve power.
+
+Overview
+========
+
+Since KSP 1.1, you can't use the on/off switch on a battery unless there is power available. If there is only one battery, or all batteries with charge are off, then an unmanned craft is dead - the batteries can't be activated because there is no power available... because the batteries are off!
+
+This mod automatically pops up a one-button menu if the following conditions are met:
+* vessel is unmanned
+* there are charged batteries aboard
+* no power is available because the batteries are switched off.
+
+The button, when clicked, swithces all batteries on, so the vessel is controllable again. This also causes the conditions for the menu to appear to become false, so it disappears.
+
+There are no settings or configuration file.
+
+Installation
+============
+
+The BatteryActivator folder needs to be unzipped and put in your KSP\GameData folder. 
+
+Code
+====
+
+The source code is in the Source folder in GameData\BatteryActivator.
+
+Version History
+===============
+
+UPDATED (2016-10-30), v 1.1
+- Compiled with KSP 1.2
+- Now works for ships with tourists on board 
+
+RELEASE (2016-05-01), v 1.0.0.1
+
+Licence
+=======
+
+BatteryActivator, its associated files and the source code are all released under the GPL 3 licence, text here: http://www.gnu.org/licenses/gpl.txt.
+
