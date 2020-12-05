@@ -1,6 +1,6 @@
 {
   "NAME": "BatteryActivator",
-  "URL": "https://raw.githubusercontent.com/linuxgurugamer/BatteryActivator/master/BatteryActivator.version",
+  "URL": "https://github.com/linuxgurugamer/BatteryActivator/raw/main/BatteryActivator.version",
   "DOWNLOAD": "https://github.com/linuxgurugamer/BatteryActivator/releases",
   "VERSION": {
     "MAJOR": 1,
