@@ -1,5 +1,9 @@
 Changelog
 
+1.2.0.1
+	Added AssemblyFileVersion
+	Updated version file for 1.12
+
 1.2
 	Adoption by Linuxgurugamer
 	Rebuilt for KSP 1.8 and newer
