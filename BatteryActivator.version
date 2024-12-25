@@ -1,12 +1,12 @@
 {
   "NAME": "BatteryActivator",
-  "URL": "https://github.com/linuxgurugamer/BatteryActivator/raw/main/BatteryActivator.version",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/BatteryActivator/refs/heads/main/BatteryActivator.version"
   "DOWNLOAD": "https://github.com/linuxgurugamer/BatteryActivator/releases",
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 2,
     "PATCH": 0,
-    "BUILD": 1
+    "BUILD": 2
   },
   "KSP_VERSION": {
     "MAJOR": 1,
@@ -17,5 +17,10 @@
     "MAJOR": 1,
     "MINOR": 12,
     "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99
   }
 }
